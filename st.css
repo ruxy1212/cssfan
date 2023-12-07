@@ -32,7 +32,7 @@ body{
     left:50%; 
     width:100px; 
     height:100px; 
-    background: radial-gradient(circle at 35% 20%,orange 4%,transparent 4%), radial-gradient(circle at 50% 20%,rgb(223, 223, 223) 4%,transparent 4%), radial-gradient(circle at 65% 20%,rgb(223, 223, 223) 4%,transparent 4%), linear-gradient(skyblue 0,skyblue 100%); 
+    background: radial-gradient(circle at 35% 20%,red 4%,transparent 4%), radial-gradient(circle at 50% 20%,rgb(223, 223, 223) 4%,transparent 4%), radial-gradient(circle at 65% 20%,rgb(223, 223, 223) 4%,transparent 4%), linear-gradient(skyblue 0,skyblue 100%); 
     transform:translate(-50%,0); 
 }
 .framee::after{ 
@@ -42,7 +42,7 @@ body{
     left:50%; 
     width:100px; 
     height:100px; 
-    background: radial-gradient(circle at 35% 20%,orange 4%,transparent 4%), radial-gradient(circle at 50% 20%,red 4%,transparent 4%), radial-gradient(circle at 65% 20%,rgb(223, 223, 223) 4%,transparent 4%), linear-gradient(skyblue 0,skyblue 100%) !important; 
+    background: radial-gradient(circle at 35% 20%,red 4%,transparent 4%), radial-gradient(circle at 50% 20%,orange 4%,transparent 4%), radial-gradient(circle at 65% 20%,rgb(223, 223, 223) 4%,transparent 4%), linear-gradient(skyblue 0,skyblue 100%) !important; 
     transform:translate(-50%,0); 
 }
 .frameee::after{ 
@@ -52,7 +52,7 @@ body{
     left:50%; 
     width:100px; 
     height:100px; 
-    background: radial-gradient(circle at 35% 20%,orange 4%,transparent 4%), radial-gradient(circle at 50% 20%,red 4%,transparent 4%), radial-gradient(circle at 65% 20%,green 4%,transparent 4%), linear-gradient(skyblue 0,skyblue 100%) !important; 
+    background: radial-gradient(circle at 35% 20%,red 4%,transparent 4%), radial-gradient(circle at 50% 20%,orange 4%,transparent 4%), radial-gradient(circle at 65% 20%,green 4%,transparent 4%), linear-gradient(skyblue 0,skyblue 100%) !important; 
     transform:translate(-50%,0); 
 }
 .blade{ 
